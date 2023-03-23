@@ -1,0 +1,53 @@
+h1{
+    background-color: black;
+    color: beige;
+    height: 50px;
+    padding: 20px;
+    margin-top: 4px;
+}
+.content{
+    width: 79%;
+    height: 650px;
+    background-color: rgb(220, 20, 60);
+    border-radius: 20px;
+    position: relative;
+}
+.movie{
+    width: 257.653543px;
+    height: 542.1969px; 
+    border: white 2px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+img{
+width: 257.653543px;
+height: 400.1969px; 
+border: 2px white solid ;
+border-radius: 10px;
+
+}
+.movie-1{
+    left: 607px;
+}
+.movie-2{
+    left: 315px;
+}
+.movie-3{
+    left: 25px;
+}
+.movie-4{
+    left: 900px;
+}
+.rating{
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+}
+.align{
+    text-align: left;
+}
+
